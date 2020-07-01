@@ -25,12 +25,12 @@ The Azure Database Migration Service is a tool that serves as a way to migrate, 
 * **PostgreSQL Database Contents:** Contains STORE(empty pre-migration), SALES_TRANSACTION(100 million rows), and PRODUCTS(1000+ rows) tables
 * **Duration of Demo:** Approximately 
 
-##1. Set up prerequisites
+## 1. Set up prerequisites
 * Before provisioning the Azure DMS tool, we will have to set up our databases correctly
 * These steps are required in order for our Source and Target Databases to connect to Azure DMS
 * Link to Prerequisites page: [Prerequisites](https://github.com/Click2Cloud/azure-oracle-migration/tree/master/Prerequisites)
 
-##2. Connect Oracle Database and PostgreSQL Database to Azure DMS
+## 2. Connect Oracle Database and PostgreSQL Database to Azure DMS
 * Once prerequisites are done we can move on to setting up Azure DMS
 * Here is a link to a detailed guide (with pictures) on how to set up Azure DMS: [DMS Tutorial](https://github.com/Click2Cloud/azure-oracle-migration/blob/master/Tutorials/DMStutorial.md)
 
