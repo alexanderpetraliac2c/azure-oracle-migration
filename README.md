@@ -3,7 +3,9 @@
 The Azure Database Migration Service (Azure DMS) is a tool that serves as a way to migrate, guide, and automate your current database migration to Azure. Effortlessly migrate data, schemas, and objects from various sources to the cloud.
 
 ## Azure DMS provides the following features:
-* **Migration:** Easily migrate your schema
+* Supports Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, and Oracle migration to Azure from on-premises and other clouds
+* Migration moves data, schema, and objects to Azure
+* Highly expansive migration service provides stable outcomes with almost no downtime
 
 
 
