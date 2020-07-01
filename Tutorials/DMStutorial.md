@@ -1,4 +1,4 @@
-### Connect Oracle Database to Azure DMS 
+# Connect Oracle Database to Azure DMS 
 
 **1. Create new Azure Migration Service resource**
 
