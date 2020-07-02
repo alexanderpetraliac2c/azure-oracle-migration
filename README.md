@@ -37,8 +37,8 @@ We created an on-prem Oracle database through an Azure Windows 2019 Server VM wi
 
 
 ## 2. Connect Oracle Database and PostgreSQL Database to Azure DMS
-* Link to written DMS tutorial (with pictures): [DMS Tutorial](https://github.com/Click2Cloud/azure-oracle-migration/blob/master/Tutorials/DMStutorial.md)
-* Link to DMS tutorial video (can be downloaded): [DMS Tutorial Video](https://github.com/Click2Cloud/azure-oracle-migration/blob/master/Videos/dmsdemo.mp4)
+* Link to written DMS tutorial (with pictures): [DMS Demo Tutorial](https://github.com/Click2Cloud/azure-oracle-migration/blob/master/Tutorials/DMStutorial.md)
+* Link to DMS tutorial video (can be downloaded): [DMS Demo Tutorial Video](https://github.com/Click2Cloud/azure-oracle-migration/blob/master/Videos/dmsdemo.mp4)
 * Once prerequisites are done we can move on to setting up Azure DMS
 
 
