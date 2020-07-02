@@ -15,7 +15,7 @@
 3.  In your Oracle Database; change the ‘UNITS’ to be ‘CHAR’ and not ‘BYTE’ for character datatypes in your desired table for DMS. (When DMS is active and the character outputs to PostgreSQL are incorrect, change this setting)
 
 <kbd>
-  <img src="./Images/1.png">
+  <img src="/Images/1.png">
 </kbd></p>
 
 
