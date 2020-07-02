@@ -32,9 +32,10 @@ The Azure Database Migration Service is a tool that serves as a way to migrate, 
 
 
 ## 2. Connect Oracle Database and PostgreSQL Database to Azure DMS
+* Link to a detailed guide (with pictures): [DMS Tutorial](https://github.com/Click2Cloud/azure-oracle-migration/blob/master/Tutorials/DMStutorial.md)
 * Link to DMS tutorial video (can be downloaded): [DMS Tutorial Video](https://github.com/Click2Cloud/azure-oracle-migration/blob/master/Videos/dmsdemo.mp4)
 * Once prerequisites are done we can move on to setting up Azure DMS
-* Here is a link to a detailed guide (with pictures) on how to set up Azure DMS: [DMS Tutorial](https://github.com/Click2Cloud/azure-oracle-migration/blob/master/Tutorials/DMStutorial.md)
+
 
 
 
