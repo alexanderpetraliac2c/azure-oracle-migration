@@ -14,7 +14,9 @@
 2.  Ensure that column datatypes from the PostgreSQL table are properly mapped to the Oracle Database table.
 3.  In your Oracle Database; change the ‘UNITS’ to be ‘CHAR’ and not ‘BYTE’ for character datatypes in your desired table for DMS. (When DMS is active and the character outputs to PostgreSQL are incorrect, change this setting)
 
-![](/Images/1.png)
+<kbd>
+  <img src="./Images/1.png">
+</kbd></p>
 
 
 **Prerequisite 6: Enable Archive Redo Logs (Required by Azure DMS to capture data change)**
