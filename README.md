@@ -16,11 +16,11 @@ The Azure Database Migration Service is a tool that serves as a way to migrate, 
 
 ![](/Images/14.png)
 
-**Scenario Details:**
+**Scenario Details:** <br />
 We created an on-prem Oracle database through an Azure Windows 2019 Server VM with an Oracle image (12.2.0.1.0 Enterprise Edition) installed. We then assess what tables and objects we want to migrate to the created Azure PostgreSQL Database. Once this is determined we migrate the schema from the Oracle Database to the Azure PostgreSQL Databbase. After this we set up Azure DMS by connecting both databases so continuous sync can happen between our tables. Once completed, the PostgreSQL Database can be used for applications and analytics.
 
 
-**Scenario Setup**
+**Scenario Setup:**
 
 * **Source VM:** Windows Server 2019 with Oracle Image installed (12.2.0.1.0 Enterprise Edition)
 * **Oracle Database:** Non-Container Database, version 12.2.0.1.0 Enterprise Edition
