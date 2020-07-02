@@ -13,8 +13,8 @@ The Azure Database Migration Service is a tool that serves as a way to migrate, 
 
 ## **Scenario**
 
-<p><kbd>
-  <img src="../Images/14.png">
+<kbd>
+  <img src="./Images/14.png">
 </kbd></p>
 
 ### **Scenario Details:** <br />
