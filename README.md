@@ -23,7 +23,7 @@ The Azure Database Migration Service is a tool that serves as a way to migrate, 
 * **PostgreSQL Database:** Azure PostgreSQL-Single Server, PostgreSQL version 10
 * **Oracle Database Contents:** Contains STORE table with 1000 generated rows
 * **PostgreSQL Database Contents:** Contains STORE(empty pre-migration), SALES_TRANSACTION(100 million rows), and PRODUCTS(1000+ rows) tables
-* **Duration of Demo:** Approximately 
+* **Duration of Demo:** Approximately 30 minutes
 
 ## 1. Set up prerequisites
 * Before provisioning the Azure DMS tool, we will have to set up our databases correctly
