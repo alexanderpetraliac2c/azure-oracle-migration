@@ -1,5 +1,17 @@
 # Connect Oracle and PostgreSQL Database to Azure DMS 
 
+**Scenario Details:**
+* In this scenario we are connecting our Oracle and PostgreSQL Databases to the Azure DMS service
+* Prerequisites for this process are located in the "Prerequisites" directory in this repository
+* Once the prerequisites are properly alligned, connections to Azure DMS should be successful
+<br/> <br/>
+
+**Technologies used:**
+* Azure Database Migration Service
+* File Sharing
+* Oracle Database (12.2.0.1 Enterprise Edition)
+* Azure PostreSQL-Single Server Database
+
 
 
 
