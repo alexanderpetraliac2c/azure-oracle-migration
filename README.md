@@ -1,3 +1,7 @@
+<style>
+.reveal section img { background:none; border:none; box-shadow:none; }
+</style>
+
 # Azure DMS: Oracle to Azure PostgreSQL
 
 The Azure Database Migration Service is a tool that serves as a way to migrate, guide, and automate your current database migration to Azure. Effortlessly migrate data, schemas, and objects from various sources to the cloud.
