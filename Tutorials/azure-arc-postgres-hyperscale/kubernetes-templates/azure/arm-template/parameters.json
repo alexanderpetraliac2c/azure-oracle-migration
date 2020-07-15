@@ -1,0 +1,45 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+		"osDiskSizeGB": {
+            "value": null
+        },
+        "resourceName": {
+            "value": null
+        },
+        "location": {
+            "value": null
+        },
+        "dnsPrefix": {
+            "value": null
+        },
+        "kubernetesVersion": {
+            "value": "1.15.11"
+        },
+        "networkPlugin": {
+            "value": "kubenet"
+        },
+        "enableRBAC": {
+            "value": false
+        },
+        "servicePrincipalClientId": {
+            "value": null
+        },
+        "servicePrincipalClientSecret": {
+            "value": null
+        },
+        "enablePrivateCluster": {
+            "value": false
+        },
+        "aadSessionKey": {
+            "value": null
+        },
+        "enableHttpApplicationRouting": {
+            "value": true
+        },
+        "vmssNodePool": {
+            "value": true
+        }
+    }
+}
