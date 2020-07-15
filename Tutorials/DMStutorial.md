@@ -1,21 +1,21 @@
 # Connect Oracle and PostgreSQL Database to Azure DMS 
 
 **Scenario Details:**
-* In this scenario we are connecting our Oracle and PostgreSQL Databases to the Azure DMS service
-* Prerequisites for this process are located in the "Prerequisites" directory in this repository
-* Once the prerequisites are properly alligned, connections to Azure DMS should be successful
+* In this scenario we are connecting our Oracle and PostgreSQL Databases to the Azure DMS service.
+* Prerequisites for this process are located in the "Prerequisites" directory in this repository.
+* Once the prerequisites are properly alligned, connections to **Azure DMS** should be successful.
 <br/> 
 
 **Technologies used:**
 * Azure Database Migration Service
 * File Sharing
-* Oracle Database (12.2.0.1 Enterprise Edition)
+* Oracle Database (*12.2.0.1 Enterprise Edition*)
 * Azure PostreSQL-Single Server Database
 <br/>
 
 
 
-**1. Create new Azure Migration Service resource**
+**1. Create new Azure Migration Service resource.**
 
 <kbd>
   <img src="/Images/2.png">
@@ -35,7 +35,7 @@
 
 
 
-**3. Create new migration project**
+**3. Create new migration project.**
 
 <kbd>
   <img src="/Images/4.png">
@@ -45,7 +45,7 @@
 
 
 
-**4. Create the migration project, making sure to once again use the “Premium SKU”**
+**4. Create the migration project, make sure to use the “Premium SKU” once again.**
 
 <kbd>
   <img src="/Images/5.png">
@@ -55,7 +55,7 @@
 
 
 
-**5. Create a “New Activity” in the new migration project**
+**5. Create a “New Activity” in the new migration project.**
 
 <kbd>
   <img src="/Images/6.png">
@@ -65,7 +65,7 @@
 
 
 
-**6. Connect to your Oracle Database**
+**6. Connect to your Oracle Database.**
 
 <kbd>
   <img src="/Images/7.png">
@@ -75,7 +75,7 @@
 
 
 
-**7. Connect OCI Driver from File Share Folder**
+**7. Connect OCI Driver from File Share Folder.**
 
 * You will need the file share link, username (which has all permissions for the drive), and the password for the username 
 * If ‘readonly, archive’ error: right click the driver zip file->uncheck ‘read-only’ 
@@ -88,7 +88,7 @@
 
 
 
-**8. Connect to the Azure PostgreSQL Database**
+**8. Connect to the Azure PostgreSQL Database.**
 
 <kbd>
   <img src="/Images/9.png">
@@ -98,7 +98,7 @@
 
 
 
-**9. Select the Schemas you want to use for sync**
+**9. Select the Schemas you want to use for sync.**
 
 * If nothing shows up this means you did not properly set up the names, datatypes, etc. For the Oracle and PostgreSQL tables. 
 
@@ -110,7 +110,7 @@
 
 
 
-**10. Check the summary if all settings/configurations are correct then click "Run Migration"**
+**10. Check the summary if all settings/configurations are correct then click "Run Migration".**
 
 <kbd>
   <img src="/Images/11.png">
