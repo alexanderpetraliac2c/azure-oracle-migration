@@ -19,9 +19,8 @@
 
 
 ## Prerequisites
-* [Prerequisites for Azure DMS: PG to PG-Hyperscale](https://github.com/alexanderpetraliac2c/postgresdemotemp/tree/master/main/pgToPgHyper/Prerequisites)
+* [Prerequisites for Azure DMS: PG to PG-Hyperscale](https://github.com/alexanderpetraliac2c/azure-oracle-migration/blob/master/Tutorials/pgToPgHyperscale/Tutorials/Prerequisites.md)
 
 
 ## PostgreSQL to PostgreSQL-Hyperscale Migration using Azure DMS (Video)
-* [PG to PG-Hyperscale Tutorial](https://github.com/alexanderpetraliac2c/azure-oracle-migration/blob/master/Tutorials/pgToPgHyperscale/Tutorials/Prerequisites.md)
-* [PG to PG-Hyperscale Tutorial (Video)](https://github.com/alexanderpetraliac2c/azure-oracle-migration/blob/master/Tutorials/pgToPgHyperscale/Tutorials/pgToPgHyperscaleTutorial.md)
+* [PG to PG-Hyperscale Tutorial](https://github.com/alexanderpetraliac2c/azure-oracle-migration/blob/master/Tutorials/pgToPgHyperscale/Tutorials/pgToPgHyperscaleTutorial.md)
