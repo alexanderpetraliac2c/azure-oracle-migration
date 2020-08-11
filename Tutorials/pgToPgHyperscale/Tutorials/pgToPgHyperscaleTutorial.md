@@ -17,7 +17,7 @@
 **1. Create new Project in Current Azure Migration Service Resource.**
 
 <kbd>
-  <img src="/Images/pgToPgHyperscaleImages/1.png">
+  <img src="/Images/pgToPgHyperImages/1.png">
 </kbd></p>
 
 <br/><br/><br/>
@@ -27,7 +27,7 @@
 **2. Enter in your credentials for the Source PostgreSQL Database in Azure DMS setup**
 
 <kbd>
-  <img src="/Images/pgToPgHyperscaleImages/6.png">
+  <img src="/Images/pgToPgHyperImages/6.png">
 </kbd></p>
 
 <br/><br/><br/>
@@ -37,7 +37,7 @@
 **3. Select your PostgreSQL-Hyperscale Database in target database selection**
 
 <kbd>
-  <img src="/Images/pgToPgHyperscaleImages/3.png">
+  <img src="/Images/pgToPgHyperImages/3.png">
 </kbd></p>
 
 <br/><br/><br/>
@@ -47,7 +47,7 @@
 **4. Select how many tables to sync in parallel.**
 
 <kbd>
-  <img src="/Images/9.png">
+  <img src="/Images/pgToPgHyperImages/9.png">
 </kbd></p>
 
 <br/><br/><br/>
@@ -57,7 +57,7 @@
 **5. Run the activity.**
 
 <kbd>
-  <img src="/Images/10.png">
+  <img src="/Images/pgToPgHyperImages/10.png">
 </kbd></p>
 
 <br/><br/><br/>
