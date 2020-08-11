@@ -36,21 +36,17 @@ The **Azure Database Migration Service** is a tool that serves as a way to :
 * **Oracle Database:** Non-Container Database (*12.2.0.1.0 Enterprise Edition*).
 * **PostgreSQL Database:** Azure PostgreSQL-Single Server, PostgreSQL version 10
 * **Oracle Database Contents:** Contains STORE table with 1000 generated rows
-* **PostgreSQL Database Contents:** Contains STORE(empty pre-migration), SALES_TRANSACTION(100 million rows), and PRODUCTS(1000+ rows) tables
+* **PostgreSQL Database Contents:** Contains STORE(empty pre-migration)
+* **PostgreSQL-Hyperscale Database Contents:** Contains STORE(empty pre-migration), SALES_TRANSACTION(100 million rows), and PRODUCTS(1000+ rows) tables
 * **Duration of Demo:** Approximately *30 minutes*
 
-## Prerequisites
-* [Prerequisites tutorial](Prerequisites/PREREQUISITES.md)
 
-## Phase 1: 
-
-
-## Phase 2: Oracle to PostgreSQL Migration using Azure DMS
+## Oracle to PostgreSQL-Hyperscale Migration using Azure DMS
   *Duration: 30 Minutes*
 * [World Wide Importer Oracle Database Migration](Tutorials/DMStutorial.md)
 * [World Wide Importer Oracle Database Migration (Video)](Videos/azuredmsproject.mp4)
 
-## Phase 3: Deploy Azure Data Controller and Postgres Hyperscale on Kubernetes Clusters.
+## Deploy Azure Data Controller and Postgres Hyperscale on Kubernetes Clusters.
 * [Deploy Azure Data Controller on Kubernetes](Tutorials/azure-arc-postgres-hyperscale/README.md)
 * [Deploy PostgreSQL Hyperscale](Tutorials/azure-arc-postgres-hyperscale/docs/003-create-pghsaa-instance.md)
 
