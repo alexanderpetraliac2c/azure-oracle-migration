@@ -23,5 +23,5 @@
 
 
 ## PostgreSQL to PostgreSQL-Hyperscale Migration using Azure DMS (Video)
-* [PG to PG-Hyperscale Tutorial](https://github.com/alexanderpetraliac2c/postgresdemotemp/tree/master/main/pgToPgHyper/Tutorial)
-* [PG to PG-Hyperscale Tutorial (Video)](https://github.com/alexanderpetraliac2c/postgresdemotemp/tree/master/main/pgToPgHyper/Tutorial)
+* [PG to PG-Hyperscale Tutorial](https://github.com/alexanderpetraliac2c/azure-oracle-migration/blob/master/Tutorials/pgToPgHyperscale/Tutorials/Prerequisites.md)
+* [PG to PG-Hyperscale Tutorial (Video)](https://github.com/alexanderpetraliac2c/azure-oracle-migration/blob/master/Tutorials/pgToPgHyperscale/Tutorials/pgToPgHyperscaleTutorial.md)
