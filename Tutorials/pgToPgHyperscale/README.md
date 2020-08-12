@@ -2,7 +2,7 @@
 
 
 
-
+[](https://github.com/alexanderpetraliac2c/azure-oracle-migration/blob/master/Images/pgToPgHyperArchitecture.png)
 
 
 
