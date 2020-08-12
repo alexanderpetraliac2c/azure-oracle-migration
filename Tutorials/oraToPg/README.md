@@ -3,8 +3,9 @@
 ## Scenario
 
 <kbd>
-  <img src="./Images/oraToPgSingle.png">
+  <img src="https://github.com/alexanderpetraliac2c/azure-oracle-migration/blob/master/Images/oraToPgSingle.png">
 </kbd></p>
+
 
 
 ### **Scenario Details:** <br />
