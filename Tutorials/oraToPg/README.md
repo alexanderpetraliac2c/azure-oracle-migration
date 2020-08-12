@@ -2,7 +2,10 @@
 
 ## Scenario
 
-![Architecture](/Images/oraToPgArchitecture.png)
+<kbd>
+  <img src="./Images/oraToPgSingle.png">
+</kbd></p>
+
 
 ### **Scenario Details:** <br />
 * Create an on-premise Oracle database through an **Azure Windows 2019 Server VM** with an Oracle image (*12.2.0.1.0 Enterprise Edition*) installed.
