@@ -1,6 +1,10 @@
 # Azure DMS: Azure PostgreSQL to Azure PostgreSQL-Hyperscale
 
-![Architecture](/Images/pgToPgHyperArchitecture.png)
+
+<kbd>
+  <img src="https://github.com/alexanderpetraliac2c/azure-oracle-migration/blob/master/Images/pgToPgHyper.png">
+</kbd></p>
+
 
 ### **Scenario Details:**
 * Create Azure PostgreSQL-Hyperscale Database
